@@ -35,15 +35,6 @@ Réduire la complexité linguistique des textes tout en préservant leur sens or
 pip install torch transformers nltk evaluate sacrebleu sacremoses
 ```
 
-## 📊 Métriques
-
-### Interprétation des Scores
-- **SARI**: 
-  * Mots conservés: Mesure la qualité de simplification
-  * Mots supprimés: Mesure la complexité du texte simplifié
-  * Mots ajoutés: Mesure la complexité du texte simplifié
-
-
 ## 🔍 Détails 
 
 ### Preprocessing
