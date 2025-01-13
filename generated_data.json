@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "complex": "Les avancées technologiques en intelligence artificielle soulèvent des questions éthiques fondamentales concernant l'avenir de l'humanité et notre relation avec les machines autonomes.",
+            "simple": "Les progrès de l'intelligence artificielle posent des questions sur notre futur avec les robots."
+        },
+        {
+            "complex": "La biodiversité des écosystèmes marins est menacée par la pollution plastique, l'acidification des océans et la surpêche industrielle.",
+            "simple": "La vie dans les océans est en danger à cause de la pollution et de la pêche excessive."
+        },
+        {
+            "complex": "Les mécanismes neurobiologiques impliqués dans le processus d'apprentissage et de mémorisation sont extrêmement complexes et interconnectés.",
+            "simple": "Le cerveau utilise des systèmes compliqués pour apprendre et se souvenir."
+        },
+        {
+            "complex": "La transition énergétique vers les sources renouvelables necessite une restructuration fondamentale de notre infrastructure énergétique existante.",
+            "simple": "Il faut changer nos installations pour utiliser les énergies propres."
+        },
+        {
+            "complex": "Les implications socio-économiques de la pandémie ont exacerbé les inegalités prédates dans de nombreuses sociétés globalisées.",
+            "simple": "La pandémie a rendu les differences entre riches et pauvres plus grandes."
+        },
+        {
+            "complex": "L'interaction entre les modifications épidémiques et les facteurs environnementaux influence l'expression des gènes de manière significative.",
+            "simple": "L'environnement peut changer comment nos gènes fonctionnent."
+        },
+        {
+            "complex": "Le changement climatique provoque des transformations profondes dans les écosystèmes, affectant la distribution et la survie de nombreuses espèces animales et végétales.",
+            "simple": "Le réchauffement change la vie des animaux et des plantes sur Terre."
+        },
+        {
+            "complex": "Les algorithmes d'apprentissage profond permettent désormais une analyse prédictive sophistiquée dans des domaines aussi variés que la médecine, la finance et la recherche scientifique.",
+            "simple": "Les nouveaux algorithmes peuvent prédire des choses dans différents domaines."
+        },
+        {
+            "complex": "La gouvernance mondiale des ressources naturelles nécessite une coopération internationale sans précédent pour garantir un développement durable et équitable.",
+            "simple": "Les pays doivent travailler ensemble pour protéger la planète."
+        },
+        {
+            "complex": "L'émergence des technologies quantiques promet des avancées révolutionnaires dans le calcul, la cryptographie et la résolution de problèmes computationnels complexes.",
+            "simple": "Les ordinateurs quantiques peuvent résoudre des problèmes très compliqués."
+        },
+        {
+            "complex": "Les cryptocurrencies et la technologie blockchain représentent une révolution potentielle dans les systèmes financiers traditionnels.",
+            "simple": "Les monnaies numériques pourraient changer comment on utilise l'argent."
+        },
+        {
+            "complex": "La médecine personnalisée basée sur le séquençage génomique promet des traitements plus efficaces et ciblés.",
+            "simple": "Les médecins peuvent créer des traitements spéciaux pour chaque personne grâce aux gènes."
+        },
+        {
+            "complex": "L'urbanisation rapide et non planifiée pose des défis majeurs pour la durabilité environnementale et la qualité de vie.",
+            "simple": "La croissance trop rapide des villes crée des problèmes pour l'environnement et les habitants."
+        },
+        {
+            "complex": "Les réseaux neuronaux artificiels simulent de plus en plus efficacement les processus cognitifs complexes du cerveau humain.",
+            "simple": "Les intelligences artificielles commencent à penser comme des humains."
+        },
+        {
+            "complex": "La géopolitique des ressources énergétiques renouvelables redéfinit les dynamiques de pouvoir et d'influence sur la scène internationale.",
+            "simple": "Les pays qui maîtrisent les énergies propres ont plus de pouvoir."
+        },
+        {
+            "complex": "L'intelligence artificielle générative et les grands modèles de langage transforment radicalement notre approche de la création de contenu et de la communication, soulevant des questions importantes sur l'authenticité, la créativité humaine et les implications éthiques de ces technologies émergentes.",
+            "simple": "L'intelligence artificielle change comment on crée du contenu et communique, posant des questions sur la créativité humaine."
+        },
+        {
+            "complex": "Les systèmes complexes d'intelligence artificielle démontrent des capacités impressionnantes dans l'analyse et le traitement du langage naturel, mais leur fonctionnement interne reste largement une boîte noire pour les chercheurs.",
+            "simple": "L'intelligence artificielle est très performante mais son fonctionnement reste mystérieux."
+        },
+        {
+            "complex": "La convergence des technologies émergentes comme l'intelligence artificielle, la robotique avancée et l'Internet des objets accélère la transformation digitale de notre société de manière sans précedente.",
+            "simple": "De nouvelles technologies changent rapidement notre façon de vivre."
+        },
+        {
+            "complex": "L'éthique de l'intelligence artificielle devient un domaine de recherche critique, examinant les implications profondes de l'autonomie des systèmes intelligents sur les structures sociales et morales.",
+            "simple": "Les chercheurs étudient comment l'intelligence artificielle peut affecter notre société."
+        },
+        {
+            "complex": "Les modèles de simulation climatique avancés permettent une compréhension plus précise des interactions complexes entre les systèmes atmosphériques, océaniques et terrestres.",
+            "simple": "Les nouveaux modèles aident à mieux comprendre le changement climatique."
+        }
+    ]
+}
