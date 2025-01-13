@@ -8,9 +8,9 @@ Réduire la complexité linguistique des textes tout en préservant leur sens or
 ## 🧠 Architecture Technique
 
 ### Modèle
-- **Base**: Modèle T5 (Text-to-Text Transfer Transformer)
-- **Framework**: PyTorch
-- **Bibliothèque de Transformation**: Hugging Face Transformers
+- Modèle T5 (Text-to-Text Transfer Transformer)
+- PyTorch
+- Hugging Face Transformers
 
 ### Métriques d'Évaluation
 1. **SARI** (Simplification Awareness Reduced Information)
