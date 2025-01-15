@@ -54,4 +54,3 @@ pip install torch transformers nltk evaluate sacrebleu sacremoses
 - Taille du modèle
 - Hyperparamètres d'entraînement
 - Métriques d'évaluation
----
